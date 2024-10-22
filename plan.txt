@@ -1,0 +1,30 @@
+What will the website do?
+
+1. Users can read blogs
+2. Users can write blogs
+3. Users can edit, delete there blogs
+
+4. There will be an Website admin who can see the blogs, can delete the blogs also.
+
+FRONTEND
+    Frontend Design:
+
+    1. First Homepage
+        contains one nav bar <nav>
+            login, register, app logo. get started
+        contains content.
+            about the app
+        Contains Footer
+            about all social media links
+    2. After logged in you can see all the posts in the feed
+        contains nav bar with logo, search bar, wanna write?, user profile
+        Feed of the posts 
+        in the wanna write page.. editor layout will be there
+    3. 
+
+
+BACKEND
+1. MongoDb
+    UserModel
+    PostModel
+    
