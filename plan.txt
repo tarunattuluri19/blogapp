@@ -27,4 +27,10 @@ BACKEND
 1. MongoDb
     UserModel
     PostModel
+
+2. NodeJS Routes
+    CRUD of users
+    CRUD of posts
+    Admin Route but with same CRUDing the users
+    
     
